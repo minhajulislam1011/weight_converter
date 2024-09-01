@@ -1,0 +1,1 @@
+The Weight converter In Python is a simple project developed using Python. This project is a GUI application that converts your weight into different units. Here, you have to enter the weight in kg and the result will be in other different units. And, the user will see the weight from kilograms(kg) to pounds, ounces,tonnes or grams. This project is an interesting useful project.
